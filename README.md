@@ -5,9 +5,9 @@ Currently, only basic movement control and basic action command control are avai
 
 ### Dependencies
 
-- grpc：`sudo pip install grpcio`
+- grpc：      `sudo pip install grpcio`
 - grpc-tools：`sudo pip install grpcio-tools`
-- keyboard：`sudo pip install keyboard`
+- keyboard：  `sudo pip install keyboard`
 
 ### Protocol generation
 
