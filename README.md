@@ -21,11 +21,10 @@ Official document : [GitHub](https://github.com/grpc/grpc)
 
 
 ### How to use
-Connect Cyberdog using official CyberdogApp. (inorde to connect cyberdog to network)
-Get Cyberdog's ip address by shell cmd `ifconfig` in Cyberdog's terminal.
-Connect PC to the same network as Cyberdog.
+Connect Cyberdog to the network using the official CyberdogApp, using the Jetson NX module as a PC or via USB cable + SSH.
+Get Cyberdog's IP address by shell cmd `ifconfig` in Cyberdog's terminal. Connect your PC to the same network.
 Run ：`sudo python3 cyberdog_ctrl.py`
-Input mode-selected and ip:
+Input mode-selected and IP:
 - RunOrderCMD：
   The following actions are performed：
   - Stand up
